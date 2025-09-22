@@ -1,0 +1,10 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+*.log
+ 
+# Build results
+bin/
+obj/
