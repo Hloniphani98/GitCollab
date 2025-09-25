@@ -3,6 +3,8 @@
 class Program
 {
     static void Main()
+
+    // Entry point of the application
     {
         Console.WriteLine("Console Calculator App");
         Console.WriteLine("----------------------");
